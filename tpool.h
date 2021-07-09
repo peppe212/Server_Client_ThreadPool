@@ -1,6 +1,6 @@
 //
 // Created by Giuseppe Muschetta on 07/07/21
-// written on M1 (ARM) iMac
+// written on M1 (ARM)
 //
 
 #ifndef THREADPOOL_CLIENT_SERVER_TPOOL_H
